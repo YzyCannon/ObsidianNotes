@@ -1,10 +1,11 @@
 # Stream流
+### 使用步骤
 ![[Pasted image 20231018212934.png]]
-### 1
+### Steam流
 ![[Pasted image 20231018213023.png]]
-### 2
+### 中间方法
 ![[Pasted image 20231020153443.png]]
-### 3
+### 终结方法
 ![[Pasted image 20231020153643.png]]
 # 方法引用
 ![[Pasted image 20231020154128.png]]
