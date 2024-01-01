@@ -41,3 +41,15 @@ git merge upstream/master
     - `git push -f origin <branch_name>`
 
 请注意，执行这些操作会涉及到对远程仓库的修改，因此请确保您有足够的权限以及正确的操作目标。在进行任何修改之前，请确保备份重要的代码。
+
+# 拉取部分代码仓
+```
+git init 
+
+git config core.sparsecheckout true 
+echo Distributed/DistributeDraw/ > .git/info/sparse-checkout
+
+git remote add origin https://gitee.com/openharmony/codelabs.git
+
+git pull origin master
+```

@@ -4,35 +4,62 @@
     "type": "split",
     "children": [
       {
-        "id": "9e5e76216d995d4a",
+        "id": "542c6abe62f75ddd",
         "type": "tabs",
         "children": [
           {
-            "id": "ca1a1d431000f313",
+            "id": "3487e2ce77d543fc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "0e56601169af13d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "天合实习日志/第12周（10.19）.md",
+                "file": "资管云/毕业设计.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1b7cef6ab1cbe32a",
+            "id": "422650104f1b6f03",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20231204155859.png"
+              }
+            }
+          },
+          {
+            "id": "5efcc76edaec5be8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20231204155941.png"
+              }
+            }
+          },
+          {
+            "id": "85d862816be29e5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA笔记/Java进阶2.md",
+                "file": "天合实习日志/git 命令集合.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,7 +89,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -82,12 +109,29 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 219.5
   },
   "right": {
     "id": "f4ebd85c11c7be3f",
     "type": "split",
     "children": [
+      {
+        "id": "6c5f5679158191ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "326fd505d50919c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
       {
         "id": "c746ecf534c70152",
         "type": "tabs",
@@ -98,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA笔记/Java进阶2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,20 +158,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA笔记/Java进阶2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "326fd505d50919c3",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -137,17 +168,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JAVA笔记/Java进阶2.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 214.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,49 +188,55 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1b7cef6ab1cbe32a",
+  "active": "3487e2ce77d543fc",
   "lastOpenFiles": [
-    "面试.md",
-    "JAVA笔记/Java进阶2.md",
-    "Pasted image 20231023222054.png",
-    "Pasted image 20231023221906.png",
-    "Pasted image 20231023221853.png",
-    "Pasted image 20231023221608.png",
-    "Pasted image 20231023221556.png",
-    "Pasted image 20231023220958.png",
-    "Pasted image 20231023220355.png",
-    "Pasted image 20231023215353.png",
-    "Pasted image 20231023215021.png",
-    "Pasted image 20231023214939.png",
-    "天合实习日志/第13周 （10.23）.md",
-    "天合实习日志/第12周（10.19）.md",
     "天合实习日志/社区教程集合.md",
-    "天合实习日志/hdc 命令集.md",
-    "天合实习日志/第11周(10.12).md",
-    "资管云/协议（JSON格式）.md",
-    "资管云/常用命令.md",
-    "资管云/学习笔记.md",
-    "资管云/命名.md",
-    "天合实习日志/git 命令集合.md",
-    "资管云",
-    "JAVA笔记/Java基础.md",
-    "JAVA笔记/Java进阶.md",
-    "天合实习日志/第10周(9.19).md",
-    "周记/第4周.md",
-    "周记/第1周.md",
-    "天合实习日志/第2周-1（7.10）.md",
-    "天合实习日志/第5周-1（8.2）.md",
-    "周记/第11周.md",
-    "天合实习日志/第2周-2.md",
-    "JAVA笔记/Java概述.md",
-    "周记/第10周.md",
-    "JAVA笔记",
+    "2024-01-01.md",
     "天合实习日志/第9周(9.4).md",
+    "资管云/毕业设计.md",
+    "Pasted image 20231229154852.png",
+    "Pasted image 20231204155859.png",
+    "Pasted image 20231204155941.png",
+    "Pasted image 20231204155926.png",
+    "天合实习日志/8.10.md",
+    "资管云/学习笔记.md",
+    "资管云/协议（JSON格式）.md",
+    "天合实习日志/hdc 命令集.md",
+    "天合实习日志/openharmony 3.2release环境搭建.md",
+    "天合实习日志/第19周（ 分布式软总线）.md",
+    "天合实习日志/第20周.md",
+    "074eebc30ce1e930ec8282ffc4c74ff.jpg",
+    "天合实习日志/周记/第8周.md",
+    "天合实习日志/周记/第5周.md",
+    "天合实习日志/第3周-3.md",
+    "天合实习日志/Ubuntu命令集合.md",
+    "Pasted image 20231219162606.png",
+    "Pasted image 20231219162604.png",
+    "天合实习日志/git 命令集合.md",
+    "天合实习日志/实习报告.md",
+    "Pasted image 20231218171228.png",
+    "Pasted image 20231218170126.png",
+    "Pasted image 20231218163856.png",
+    "天合实习日志/构建编译.md",
+    "天合实习日志/第18周.md",
+    "英语六级.md",
+    "天合实习日志/杂毛/杂毛.md",
+    "天合实习日志/第1周.md",
+    "天合实习日志/第17周  文件管理.md",
+    "资管云/讲座.md",
+    "资管云/华为云IoT.md",
     "天合实习日志/第8周-以太网(8.29).md",
-    "天合实习日志/第7周(8.16).md",
+    "天合实习日志/杂毛",
+    "JAVA笔记/nodeJS",
+    "资管云/比赛",
+    "周记2",
+    "JAVA笔记/uniapp",
+    "JAVA笔记/Spring笔记",
+    "任务",
+    "资管云",
+    "JAVA笔记",
     "未命名.canvas",
-    "周记",
-    "未命名 1.canvas",
-    "天合实习日志"
+    "天合实习日志/周记",
+    "未命名 1.canvas"
   ]
 }

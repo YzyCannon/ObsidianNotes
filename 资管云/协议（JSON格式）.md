@@ -1,3 +1,6 @@
+hand-held terminal HHT
+Intelligent cloud cabinet ICC
+Borrowing and returning counter BTC
 # 盘点机
 开启主题号：682265633886208
 ### 连接
